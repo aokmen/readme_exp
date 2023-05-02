@@ -7,7 +7,7 @@
 </h1>
 
 <br/>
-[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen)](https://github.com/aokmen/github-readme-stats)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen)
 <br/>
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokmen&show_icons=true&theme=radical)
 <br>
